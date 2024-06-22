@@ -6,6 +6,7 @@ A hospital system network design and implementation project on Cisco pkt.
 The medical centre has a headquaters and a branch.
 
 
+
 Technology Implemented:
 
 • 3 tiers network architect
@@ -43,7 +44,7 @@ Technology Implemented:
 
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/070d1b30-8d74-478d-a6a8-6ddc778b95ed" width="700">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/070d1b30-8d74-478d-a6a8-6ddc778b95ed" width="800">
 </div>
 <br>
 <br>
