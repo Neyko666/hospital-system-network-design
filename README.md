@@ -8,7 +8,7 @@ The medical centre has a headquaters and a branch.
 
 <br>
 Technology Implemented:
-
+<br>
 
 • 3 tiers network architect
 
