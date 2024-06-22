@@ -9,6 +9,7 @@ The medical centre has a headquaters and a branch.
 <br>
 Technology Implemented:
 
+
 • 3 tiers network architect
 
 • Network redundancy
