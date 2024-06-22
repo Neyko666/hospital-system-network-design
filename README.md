@@ -43,12 +43,12 @@ Technology Implemented:
 
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/070d1b30-8d74-478d-a6a8-6ddc778b95ed" width="500">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/070d1b30-8d74-478d-a6a8-6ddc778b95ed" width="700">
 </div>
 <br>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/0f94d359-8fbf-4a9d-819c-90b80e5754dd" width="500">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/0f94d359-8fbf-4a9d-819c-90b80e5754dd" width="600">
 </div>
 <br>
 <br>
@@ -58,17 +58,17 @@ Technology Implemented:
 <br>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/52399a89-457c-424c-a3f1-e2243fe0fc20" width="500">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/52399a89-457c-424c-a3f1-e2243fe0fc20" width="600">
 </div>
 <br>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/c5381795-5f82-414e-b607-5c39c19b30d4" width="500">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/c5381795-5f82-414e-b607-5c39c19b30d4" width="600">
 </div>
 <br>
 <br>
 <div align = "center">
-<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/4b571833-4333-416d-946f-f924f85b9f73" width="500">
+<img src="https://github.com/Neyko666/hospital-system-network-design/assets/171580092/4b571833-4333-416d-946f-f924f85b9f73" width="600">
 </div>
 <br>
 
