@@ -5,7 +5,6 @@ A hospital system network design and implementation project on Cisco pkt.
 
 The medical centre has a headquaters and a branch.
 
-
 <br>
 Technology Implemented:
 <br>
